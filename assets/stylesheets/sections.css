@@ -1,0 +1,33 @@
+
+
+/*
+ * design for each fixed sections
+ */
+section.fixed.f1 {
+	background-image: url("../images/welcome/background.jpg");
+}
+	section.fixed.f1 .subtitle {
+		text-transform: uppercase;
+	}
+
+	section.fixed.f1 h1 {
+		font-size: 4em;
+	}
+
+section.fixed.f2 {
+	background-image: url("../images/programme/children.jpg");
+}
+
+section.fixed.f3 {
+	background-image: url("../images/about/about.jpg");
+}
+
+section.fixed.f4 {
+	background-image: url("../images/contact/call.jpg");
+}
+
+
+/*
+ * design for each scrolling sectiona
+ */
+
