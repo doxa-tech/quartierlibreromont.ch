@@ -1,5 +1,5 @@
 #scrollbar {
-	background: #1B08FF; /* TO CHANGE */
+	background: #08298A; /* TO CHANGE */
 	bottom: 0;
 	left: 0;
 	position: fixed;
@@ -8,7 +8,7 @@
 	z-index: 999;
 }
   #scrollbar #scrollcursor {
-  	background: yellow; /* TO CHANGE */
+  	background: #F4E207; /* TO CHANGE */
   	cursor: pointer;
   	height: 50px;
   	left: 0;
