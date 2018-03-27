@@ -14,7 +14,7 @@ section.fixed.f1 {
 		#################################
 		# Le titre de la première page: #
 		#################################
-		font-size: 5em;
+		font-size: 7em;
 	}
 
 section.fixed.f2 {
@@ -33,7 +33,7 @@ section.fixed.f2, section.fixed.f3, section.fixed.f4 {
 	###################################
 	# Les titres des autres sections: #
 	###################################
-	font-size: 2.875em;
+	font-size: 4em;
 }
 
 
